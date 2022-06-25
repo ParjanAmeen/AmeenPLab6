@@ -1,0 +1,9 @@
+Clearly, every binary search tree is a binary tree. 
+The height of a binary search tree is determined in the same way as the height of a binary tree. 
+Similarly, the operations to find the number of nodes, 
+to find the number of leaves, and to do inorder, preorder, and postorder traversals 
+of a binary search tree are the same as those for a binary tree. 
+Therefore, we can inherit all of these operations from the binary tree. 
+That is, we can extend the definition of the binary tree 
+by using the principle of inheritance and hence define the binary search tree.
+Malik  19-3
